@@ -22,7 +22,8 @@ Make PuTTY pretty and apply modern PuTTY settings.
 * 256 color support
 * UTF-8 character support
 * Consolas 12pt ClearType font
-* Linux style copy-and-pasting (middle click to paste)
+* Disabled!! Linux style copy-and-pasting (middle click to paste)
+* Use Ctrl + Shift + C/V to Copy or Paste
 * Scrollback buffer set to 2000 lines
 * Seconds between keepalives set to 59
 * Mouse pointer hides while typing
