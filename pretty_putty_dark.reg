@@ -50,8 +50,11 @@ Windows Registry Editor Version 5.00
 "FontHeight"=dword:0000000b
 "FontQuality"=dword:00000003
 
-; Linux style copy-and-pasting (middle click to paste)
-"MouseIsXterm"=dword:00000001
+; Disabled!!Linux style copy-and-pasting (middle click to paste)
+"MouseIsXterm"=dword:00000000
+
+; Use Control+Shift+c/v to copy/paste
+"CtrlShiftCV"="explicit"
 
 ; Scrollback buffer set to 2000 lines
 "ScrollbackLines"=dword:000007d0
