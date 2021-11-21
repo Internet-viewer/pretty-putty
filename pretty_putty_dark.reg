@@ -45,9 +45,9 @@ Windows Registry Editor Version 5.00
 "LineCodePage"="UTF-8"
 "UTF8Override"=dword:00000001
 
-; Consolas 12pt ClearType font
+; Consolas 11pt ClearType font
 "Font"="Consolas"
-"FontHeight"=dword:0000000c
+"FontHeight"=dword:0000000b
 "FontQuality"=dword:00000003
 
 ; Linux style copy-and-pasting (middle click to paste)
