@@ -41,7 +41,7 @@ Windows Registry Editor Version 5.00
 "Colour21"="253,246,227"
 
 ; 256 color support
-"TerminalType"="putty-256color"
+"TerminalType"="xterm-256color"
 
 ; UTF-8 character support
 "LineCodePage"="UTF-8"
