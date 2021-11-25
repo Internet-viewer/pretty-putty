@@ -41,6 +41,7 @@ Windows Registry Editor Version 5.00
 "Colour21"="253,246,227"
 
 ; 256 color support
+; the original putty-256color cannnot be recognized by google cloud platform
 "TerminalType"="xterm-256color"
 
 ; UTF-8 character support
